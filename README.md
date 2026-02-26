@@ -2,7 +2,7 @@
 
 Gemini Canvas 미션 결과물을 관리하는 저장소입니다.
 
-## 1. 유틸리티 앱: Voca Studio
+## 💻 1. 유틸리티 앱: Voca Studio
 
 나만의 학습 자료를 관리하고 암기하는 커스텀 단어장 솔루션입니다.
 
@@ -25,7 +25,7 @@ https://gemini.google.com/share/a08f4f0b6fe8
 
 - **실시간 동기화**: 저장 버튼 없이도 PC와 모바일 어디서든 이어서 학습할 수 있습니다.
 
-## 2. 게임: Neon Beat
+## 🎮 2. 게임: Neon Beat
 
 사용자의 음악으로 즐기는 커스텀 리듬 액션 게임입니다.
 
@@ -46,7 +46,7 @@ https://gemini.google.com/share/cdd53dde34de
 
 - **정교한 판정**: Perfect부터 Miss까지 이어지는 판정 시스템과 신디사이저 타격 효과음으로 몰입감을 높였습니다.
 
-## 학습 앱: DroidVisualizer
+## 📚 학습 앱: DroidVisualizer
 
 안드로이드 핵심 개념을 시각적으로 학습하는 개발자 전용 비주얼 가이드입니다.
 
@@ -69,7 +69,7 @@ https://gemini.google.com/share/6b1dd274f636
 
 - **AI 퀴즈**: Gemini가 최신 기술 명세를 바탕으로 'Process Death 대응' 등 실무적인 판단력이 필요한 퀴즈를 실시간으로 생성합니다.
 
-## 4. 페어 프롬프트 릴레이 앱: 회고 AI 코치
+## 🤝 4. 페어 프롬프트 릴레이 앱: 회고 AI 코치
 
 STAR 프레임워크를 통해 단순 기록을 성장의 발판으로 바꾸는 회고 전문 가이드입니다.
 
